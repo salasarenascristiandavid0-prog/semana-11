@@ -1,0 +1,8 @@
+La interfaz de la plataforma estará diseñada de forma limpia y accesible, estructurada en las siguientes secciones:
+
+1. Vista de causas disponibles: Un panel principal en forma de cuadrícula o lista donde se muestran las causas comunitarias activas con su título y descripción.
+2. Contador de apoyos: Cada tarjeta de causa incluirá un número visible que se actualiza al recibir interacciones.
+3. Botón para apoyar una causa: Un botón intuitivo ubicado junto al contador que permite al usuario autenticado sumar su apoyo con un solo clic.
+4. Formulario para crear una causa: Una sección protegida con campos de texto para ingresar el título, la descripción detallada y la fecha de la nueva propuesta comunitaria.
+
+La interfaz priorizará la claridad y la usabilidad, omitiendo cualquier tipo de dato privado en las pantallas públicas.

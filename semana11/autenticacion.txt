@@ -1,0 +1,5 @@
+El login es el mecanismo que permite identificar y validar la identidad de un usuario antes de otorgarle acceso a la plataforma. 
+Es fundamental proteger ciertas rutas porque contienen acciones administrativas o registros internos que no deben ser alterados por cualquiera. 
+Restringir el acceso asegura que solo las personas autorizadas puedan crear, modificar o eliminar causas y apoyos dentro del sistema. 
+Bajo ninguna circunstancia se debe exponer públicamente información sensible como contraseñas, tokens de API, archivos de configuración .env o datos personales de los ciudadanos.
+Mantener estas barreras de seguridad previene el uso indebido de la plataforma y ataques malintencionados.

@@ -1,0 +1,19 @@
+Entidad: Causa
+Campos principales:
+- id (Numérico, Clave primaria)
+- titulo (Texto)
+- descripcion (Texto)
+- fecha (Fecha)
+
+Propósito:
+Guardar de forma organizada las causas comunitarias propuestas por los usuarios para que sean visibles en la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+- id (Numérico, Clave primaria)
+- causa_id (Numérico, Clave foránea)
+- usuario (Texto / ID de usuario)
+- fecha (Fecha)
+
+Propósito:
+Registrar de manera estructurada los apoyos individuales que recibe cada causa, permitiendo contabilizar la participación.
